@@ -18,6 +18,11 @@ Banner made by gay fluro and method is easy and simple then others and fakes
 9. Then check your zip/rar file and it will be a png as ur stub
 10. Then send ur png to someone and when they open it will open the png, execute the exe behind encoded with the hex editor!
 
+![deletethisalso](https://user-images.githubusercontent.com/95067718/162580137-f22f3e71-0b46-4467-b6e4-66d3ee51d7b7.jpeg)
+![andthis](https://user-images.githubusercontent.com/95067718/162580139-a9f6c253-46da-40bf-9b5e-e90ce4d4097a.jpeg)
+![andaa](https://user-images.githubusercontent.com/95067718/162580142-7007ab12-13b7-43ca-aefb-b38f23174c2c.jpeg)
+
+
 
 # Usage
 Save an image that you want to use for your image logger and save it to your desktop so it may look like this
