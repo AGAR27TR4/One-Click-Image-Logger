@@ -1,6 +1,10 @@
 # One-Click-Image-Logger
 A method on how to make a One Click Image Logger!
-Method/made by fluro#0009 :D
+Method/made by fluro#0009 | support me for a price of a tea :D ko-fi.com/fluroescentxx
+
+![oneclick(2)](https://user-images.githubusercontent.com/95067718/162579787-a5937583-eda3-4c42-9600-14b701acbb40.jpg)
+
+Banner made by gay fluro and method is easy and simple then others and fakes
 
 # Explanation
 1. So install HEX editor 64 from the website or above
