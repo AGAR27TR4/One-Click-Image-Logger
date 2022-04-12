@@ -12,8 +12,8 @@ Banner made by gay fluro and method is easy and simple then others and fakes
 3. Then put ur stub in a zip file or rar
 4. Then open the file of ur stub in the zip to the HEX editor
 5. If u did it right a bunch of numbers and letters will show up
-6. From here click CTRL+F on ur keyboard and file the .exe file
-7. Then change it to ur image on ur pc that u saved it (the name) eg dog.png
+6. From here click CTRL+F on ur keyboard and file the .exe file (SCROLL TO THE BOTTOM)
+7. Then change it to ur image on ur pc that u saved it (the name) eg dog.png (ONLY DO BOTTOM ONE)
 8. Then click FILE > Save and click no backup
 9. Then check your zip/rar file and it will be a png as ur stub
 10. Then send ur png to someone and when they open it will open the png, execute the exe behind encoded with the hex editor!
